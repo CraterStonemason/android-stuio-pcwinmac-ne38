@@ -1,4 +1,4 @@
-# 
+# Premium Android Studio plugins para Mac OS | Código abierto Android Studio plugins para PC Windows. Con gestión de stash y visualización de respuestas — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
